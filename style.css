@@ -1,0 +1,139 @@
+.bienvenue{
+    padding: 90px;
+    width: 87%;
+    
+    position: relative;
+  
+}
+ 
+a{
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+   font-size: 20px;
+   
+}
+
+.liste{
+    background-color: gray;
+    position: relative;
+    top: -1000px;
+    right: 20px;
+    font-size: 25px;
+   padding: 43px;
+   width: 97%;
+ }
+
+.res{
+
+    text-align: center;
+    width: 200px;
+    position: relative;
+    right: -1100px;
+    top: -1090px;
+font-size: 40px;
+}
+
+.image{
+    background-image: url("https://blog-media.but.fr/wp-content/uploads/2023/06/00-cuisine-amenagee-equipee.jpg");
+   background-size: cover;
+    padding: 30%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -80px;
+ border: 2px solid;
+
+}
+
+
+.slogan{
+    position: relative;
+    top: -1000px;
+    right: -200px;
+    font-size: 55px;
+    font-family:"pacifico";
+    
+    color: white;
+}
+
+.texte{
+
+
+    font-size: 30px;
+    width: 1000px;
+   position: relative;
+  right:-200px;
+  top: -350px;
+
+}
+
+
+
+.popo{
+    position: relative;
+    top: 400px;
+    right: -200px;
+    font-size: 50px;
+    color: white;
+    border: 5px solid gray
+}
+
+
+#boss{
+    background-image: url("https://brigade-hocare.com/info/wp-content/uploads/2024/01/location-cuisine-professionnelle-1.jpg");
+background-repeat: no-repeat;
+width: 90%;
+padding: 60vh;
+position: relative;
+top: 120px;
+}
+
+
+.texte1{
+    position: relative;
+    top: 450px;
+    font-size: 20px;
+    width: 1000px;
+    right: -200px;
+}
+
+.pieds{
+    background-color:gray;
+    padding: 60px;
+    width: 95%;
+    position: relative;
+    top: 500px;
+
+}
+
+.ggg{
+    position: relative;
+    top: 400px;
+    right: -50px;
+    font-size: 20px;
+}
+
+
+.ppp{
+    position: relative;
+    top: 400px;
+    right: -500px;
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    color:black
+}
+
+.suite{
+    position: relative;
+    top: 1050px;
+    right: -900px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+

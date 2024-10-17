@@ -1,0 +1,120 @@
+
+
+
+.liste1{
+    background-color: gray;
+   color: white;
+    font-size: 25px;
+   padding: 43px;
+   width: 97%;
+
+}
+
+
+
+ 
+a{
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+   font-size: 20px;
+   
+}
+
+
+
+
+.mouma{
+  position: relative;
+  right: 00px;
+  font-size: 50px;
+
+text-align: center;
+
+}
+
+#flexbox-ville{
+   
+    display: grid;
+    grid-template-columns: repeat(3,6fr );
+    gap: 30px;
+    position: relative;
+    top: 90px;
+    right: 0px;
+}
+
+#ville{
+
+    background-size: cover;
+    width: 85%;
+    height: 400px;
+    border: 10px solid white;
+    border-radius: 35px;
+    font-size: 50px;
+    color: orange;
+    text-shadow: 0 0 30px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'pacifico';
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+}
+
+.b1{
+    background-image:url("https://livios-images.imgix.net/livios/umbracomedia/130948/ambiences_onirika_awake_01.jpg?w=460&auto=format&ar=4%3A3&fit=crop&crop=faces%2Cfocalpoint&corner-radius=10&mask=corners&lossless=true&s=c0a9a2efcc41bbe5dffc995ed91125b8");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+  
+ 
+}
+
+.b2{
+    background-image:url("https://www.ixina.fr/fileadmin/_processed_/5/1/csm_Milieubild-Lechner-Laminat-Arbeitsplatte-362-Lucano_Stratifie_53b7ba3fe6.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.b3{
+    background-image:url("https://comocucine.com/wp-content/uploads/2020/08/modele-cuisine-haut-gamme-1024x768.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+
+.b4{
+    background-image:url("https://www.lescuisinesdemaud.com/wp-content/uploads/sites/2259/2022/07/plan-de-travail-granit-600x426.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+
+.b5{
+    background-image: url("https://static.cotemaison.fr/medias_11964/w_640,c_fill,g_north/plan-de-travail-porcelanosa-2_6125905.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+ }
+
+ .b6{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeOhidIfkIlna7DgEd7M4uFEiPJ9j3uvGGBygtPh91dKvzpTInDKX-OcTE145gHFvpLY&usqp=CAU");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+ }
+
+
+ 
+
+.polo{
+    font-size: 20px;
+    position: relative;
+    top:120px;
+    right: -1100px;
+    padding: 10px;
+}
